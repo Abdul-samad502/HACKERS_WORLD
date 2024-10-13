@@ -1,3 +1,3 @@
 # HACKERS_WORLD
-this is my git repository
-author:Abdul_samad
+This is my git repository
+Author:Abdul_samad
